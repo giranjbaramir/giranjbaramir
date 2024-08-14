@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @giranjbaramir
 
+![GR](./GR.JPG)
+
 - 🌍 Hailing from Shiraz, and currently based in Kingston 📍.
 - 🎓 Loyalist CVI '19 alum, and Queen’s University '24 graduate.
 - 🧬 Learning the ropes of bioinformatics.
